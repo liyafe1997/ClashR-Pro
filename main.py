@@ -2,6 +2,7 @@ import signal
 import os
 import config
 import webbrowser
+import atexit
 
 #这个模块来自 https://github.com/poulp/zenipy
 from zenipy.zenipy import *
@@ -10,7 +11,7 @@ from multiprocessing import Process,Pool
 from gi.repository import Gtk as gtk
 from gi.repository import AppIndicator3 as appindicator
 from subprocess import  Popen
-import atexit
+
 HOME = os.getenv("HOME")
 APPINDICATOR_ID = 'ClashR Pro'
 switch = 10086
