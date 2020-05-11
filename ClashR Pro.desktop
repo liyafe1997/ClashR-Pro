@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ClashR Pro
+Exec=python /opt/ClashR_Pro/ClashrPro
+Icon=/opt/ClashR_Pro/logo.png
+Terminal=false
+StartupNotify=false
+Categories=Network;GTK;
