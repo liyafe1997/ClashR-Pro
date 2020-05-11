@@ -3,7 +3,7 @@
 A ClashR GUI for Linux
 
 # 截图/Screenshot
-
+![Image text](https://raw.githubusercontent.com/uiYzzi/ClashR-Pro/master/screenshot/1.png)
 # 安装方法/Installation method
 ### debian/ubuntu
     sudo apt install gsettings
