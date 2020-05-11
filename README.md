@@ -6,12 +6,12 @@ A ClashR GUI for Linux
 
 # 安装方法/Installation method
 ### debian/ubuntu
-  sudo apt install gsettings
-  git clone https://github.com/uiYzzi/ClashR-Pro.git
-  cd ClashR-Pro
-  ./install.sh
+    sudo apt install gsettings
+    git clone https://github.com/uiYzzi/ClashR-Pro.git
+    cd ClashR-Pro
+    ./install.sh
 ### archlinux
-  sudo pacman -S gsettings
-  git clone https://github.com/uiYzzi/ClashR-Pro.git
-  cd ClashR-Pro
-  ./install.sh
+    sudo pacman -S gsettings
+    git clone https://github.com/uiYzzi/ClashR-Pro.git
+    cd ClashR-Pro
+    ./install.sh
