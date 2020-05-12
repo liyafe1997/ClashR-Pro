@@ -10,6 +10,8 @@ A ClashR GUI for Linux
 
 -[  ]复制终端代理命令功能/Copy Terminal Proxy Command
 
+-[  ]本地化与国际化/Localization and internationalization
+
 -[  ]打包/Package
 ## 安装方法/Installation method
 ### debian/ubuntu
