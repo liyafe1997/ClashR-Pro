@@ -15,12 +15,12 @@ A ClashR GUI for Linux
 -[  ]打包/Package
 ## 安装方法/Installation method
 ### debian/ubuntu
-    sudo apt install gsettings
+    sudo apt install gsettings python3
     git clone https://github.com/uiYzzi/ClashR-Pro.git
     cd ClashR-Pro
     ./install.sh
 ### archlinux
-    sudo pacman -S gsettings
+    sudo pacman -S gsettings python3
     git clone https://github.com/uiYzzi/ClashR-Pro.git
     cd ClashR-Pro
     ./install.sh
