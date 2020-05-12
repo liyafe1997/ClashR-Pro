@@ -8,6 +8,8 @@ A ClashR GUI for Linux
 ## 接下来干点啥/To do list
 -[  ]添加托盘图标/Add tray icon
 
+-[  ]复制终端代理命令功能/Copy Terminal Proxy Command
+
 -[  ]打包/Package
 ## 安装方法/Installation method
 ### debian/ubuntu
