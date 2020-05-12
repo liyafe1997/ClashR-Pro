@@ -12,6 +12,8 @@ A ClashR GUI for Linux
 
 - 本地化与国际化/Localization and internationalization
 
+- SSR订阅链接转换/SSR subscription link conversion
+
 - 打包/Package
 ## 安装方法/Installation method
 ### debian/ubuntu
