@@ -14,8 +14,9 @@ from subprocess import  Popen
 
 HOME = os.getenv("HOME")
 APPINDICATOR_ID = 'ClashR Pro'
-switch = 10086
-indicator = appindicator.Indicator.new(APPINDICATOR_ID, 'whatever', appindicator.IndicatorCategory.SYSTEM_SERVICES)
+LOGO_W='/opt/ClashR_Pro/logo-w.svg'
+LOGO_B='/opt/ClashR_Pro/logo-b.svg'
+indicator = appindicator.Indicator.new(APPINDICATOR_ID,LOGO_W, appindicator.IndicatorCategory.SYSTEM_SERVICES)
 clashr=Popen(args='/opt/ClashR_Pro/clashr/clashr-linux-amd64',shell=True)
 def main():
     indicator.set_status(appindicator.IndicatorStatus.ACTIVE)
