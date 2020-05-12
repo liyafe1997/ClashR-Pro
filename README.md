@@ -12,7 +12,7 @@ A ClashR GUI for Linux
 
 - 本地化与国际化/Localization and internationalization
 
--打包/Package
+- 打包/Package
 ## 安装方法/Installation method
 ### debian/ubuntu
     sudo apt install gsettings python3
